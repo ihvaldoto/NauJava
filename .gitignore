@@ -2,3 +2,4 @@
 .gigaide/
 *.iml
 test/*.txt
+out/
