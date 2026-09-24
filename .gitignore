@@ -1,0 +1,5 @@
+.idea/
+.gigaide/
+*.iml
+test/*.txt
+out/
